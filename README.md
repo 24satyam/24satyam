@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+
 <h1 align="center">Hi 👋, I'm Satyam </h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align ="right" alt = "coding" width="400" src = "https://th.bing.com/th/id/R.6e4fed7d08c53dd96d1ccd2c744fa51b?rik=hPGvUbs2CNutBA&riu=http%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f10%2fhacker-gif-animation-9.gif&ehk=lO0f%2feQ4xGDBna2JO8ClhqsQI2zg4XMmDxoBRu0o%2f4M%3d&risl=&pid=ImgRaw&r=0">
