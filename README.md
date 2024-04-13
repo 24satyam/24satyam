@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [AWS , Java , SpringBoot and Mlops](AWS , Java , SpringBoot and Mlops)
 
-- 💬 Ask me about **java , Springboot , python , Angular**
+- 💬 Ask me about **java , Springboot , python , Angular ,React, Gradle and Maven**
 
 - 📫 How to reach me **https://www.linkedin.com/in/satyam-yadav-2404051a3/**
 
